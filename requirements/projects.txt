@@ -1,0 +1,5 @@
+django==1.5.2
+django-paypal==0.1.2
+git+https://github.com/dpnova/django-muaccounts.git#egg=django-muaccounts
+git+https://github.com/dpnova/django-subscription.git#egg=django-subscription
+django-registration
